@@ -11,8 +11,8 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : halfAdder.vhd
---| AUTHOR(S)     : Capt Warner
---| CREATED       : 01/17/2017
+--| AUTHOR(S)     : Antonio Thomas
+--| CREATED       : 02/1/2024
 --| DESCRIPTION   : This file implements a one bit half adder.
 --|
 --| DOCUMENTATION : None
